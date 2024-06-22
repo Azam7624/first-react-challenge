@@ -1,0 +1,22 @@
+{
+  "products": [
+    {
+      "id": "3704",
+      "title": "iPhone 13 Pro MAX 256Gb",
+      "price": 74000000,
+      "qty": 10
+    },
+    {
+      "id": "34af",
+      "title": "iPhone 13 Pro MAX 128Gb",
+      "price": 65000000,
+      "qty": 5
+    },
+    {
+      "id": "Zvg9OBnOytDJs4OZLw6fo",
+      "title": "A53 5G",
+      "price": "17000000",
+      "qty": "4"
+    }
+  ]
+}
